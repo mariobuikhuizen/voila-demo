@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template vuetify-default --enable_nbextensions=True voila-vuetify.ipynb
+web: voila --port=$PORT --no-browser --template embed --enable_nbextensions=True --Voila.tornado_settings="{'allow_origin': '*'}"

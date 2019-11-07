@@ -1,5 +1,5 @@
 voila>=0.1.8
-ipyvuetify>=0.1.9
-voila-vuetify>=0.0.1a6
-bqplot
+ipyvuetify==1.0.4
+git+https://github.com/mariobuikhuizen/voila-embed@master
+bqplot==0.11
 numpy
